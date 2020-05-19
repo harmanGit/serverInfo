@@ -1,4 +1,7 @@
 # serverInfo
+
+Installing and hosting a local Wiki with MongoDb and simple API with a web client.
+
  Server Info and Usecases
 * MongoDb (wiki)
 * DynaTrace
